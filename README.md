@@ -1,4 +1,4 @@
-# Ballot Smart Contract
+# Voting Smart Contract
 
 The Ballot smart contract is a simple voting system where the chairperson can grant voting rights to voters, who can then vote on a list of proposals. The contract allows for secure and transparent voting and ensures that each voter can vote only once.
 
